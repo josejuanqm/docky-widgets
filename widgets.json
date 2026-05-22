@@ -1,0 +1,13 @@
+[
+  {
+    "identifier": "gt.quintero.Docky.clipboard",
+    "title": "Clipboard",
+    "author": "Jose Quintero",
+    "version": "1.0.0",
+    "downloadURL": "https://github.com/josejuanqm/docky-clipboard-manager/releases/download/v1.0.0/ClipboardDockyWidget-1.0.0.dockywidget.zip",
+    "sha256": "2be8de0e8a7dd910e721ca62ab9f5df60c608ddf9b9f0d8aeeabd3ea7500c623",
+    "previewURL": "https://getdocky.com/widget-releases/ClipboardDockyWidget-1.0.0.png",
+    "description": "Horizontal scroll of recent clipboard items with QuickLook previews and drag-to-paste.",
+    "systemImageName": "doc.on.clipboard"
+  }
+]
